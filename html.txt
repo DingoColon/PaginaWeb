@@ -1,0 +1,17 @@
+<footer>
+        <div class="contenedor-footer">
+            <div class="content-foo">
+                <h4>Celular</h4>
+                <p>xxx</p>
+            </div>
+            <div class="content-foo">
+                <h4>Gmail</h4>
+                <p>mathiasdgavilanes1@gmail.com</p>
+            </div>
+            <div class="content-foo">
+                <h4>Ubicación</h4>
+                <p>Uruguay Montevideo</p>
+            </div>
+        </div>
+        <h2 class="titulo-final">&copy;Mathias Echeverriborda</h2>
+    </footer>
